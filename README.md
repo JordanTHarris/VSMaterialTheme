@@ -2,7 +2,7 @@
 A theme for Visual Studio 2015 based off of Material Design themes. (In progress)
 
 ## Preview of theme:
-Here's a small preview of this theme with some random example C++ code I found on the web.
+Here's a small preview of this theme with some random example C++ code.
 ![vsmaterialdesign](https://cloud.githubusercontent.com/assets/11206202/11170584/c1237398-8ba6-11e5-9e84-5823504057fc.png)
 
 There's still a lot to do and some (or many) colors will be changed. Who knew that creating a theme for Visual Studio would take so much work? :)
