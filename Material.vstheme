@@ -3423,64 +3423,64 @@
         <Background Type="CT_RAW" Source="FF307C94" />
       </Color>
       <Color Name="StartPageBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FF1F1F22" />
+        <Background Type="CT_RAW" Source="FF263238" />
       </Color>
       <Color Name="StartPageBackgroundGradientEnd">
-        <Background Type="CT_RAW" Source="FF1F1F22" />
+        <Background Type="CT_RAW" Source="FF263238" />
       </Color>
       <Color Name="StartPageButtonBorder">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF607D8B" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundMiddle1">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageButtonMouseOverBackgroundMiddle2">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageButtonPinned">
         <Background Type="CT_RAW" Source="FFE53935" />
       </Color>
       <Color Name="StartPageButtonPinDown">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageButtonPinHover">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageButtonUnpinned">
         <Background Type="CT_RAW" Source="FFE53935" />
       </Color>
       <Color Name="StartPageButtonText">
-        <Background Type="CT_RAW" Source="FF0097FB" />
+        <Background Type="CT_RAW" Source="FF607D8B" />
       </Color>
       <Color Name="StartPageButtonTextHover">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageSelectedItemBackground">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF18FFFF" />
       </Color>
       <Color Name="StartPageSelectedItemStroke">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="StartPageSeparator">
-        <Background Type="CT_RAW" Source="FF363639" />
+        <Background Type="CT_RAW" Source="FF607D8B" />
       </Color>
       <Color Name="StartPageTabBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF263238" />
       </Color>
       <Color Name="StartPageTabBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF263238" />
       </Color>
       <Color Name="StartPageTabMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF28282B" />
+        <Background Type="CT_RAW" Source="FF37474F" />
       </Color>
       <Color Name="StartPageTabMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF28282B" />
+        <Background Type="CT_RAW" Source="FF37474F" />
       </Color>
       <Color Name="StartPageTextBody">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -3492,40 +3492,40 @@
         <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageTextControlLinkSelected">
-        <Background Type="CT_RAW" Source="FF0097FB" />
+        <Background Type="CT_RAW" Source="FF64FFDA" />
       </Color>
       <Color Name="StartPageTextControlLinkSelectedHover">
-        <Background Type="CT_RAW" Source="FF88CCFE" />
+        <Background Type="CT_RAW" Source="FF18FFFF" />
       </Color>
       <Color Name="StartPageTextDate">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageTextHeading">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF78909C" />
       </Color>
       <Color Name="StartPageTextHeadingMouseOver">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FF18FFFF" />
       </Color>
       <Color Name="StartPageTextHeadingSelected">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageTextSubHeading">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF78909C" />
       </Color>
       <Color Name="StartPageTextSubHeadingMouseOver">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FF18FFFF" />
       </Color>
       <Color Name="StartPageTextSubHeadingSelected">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageUnselectedItemBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF3F3F3F" />
+        <Background Type="CT_RAW" Source="FF37474F" />
       </Color>
       <Color Name="StartPageUnselectedItemBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF37474F" />
       </Color>
       <Color Name="StartPageUnselectedItemStroke">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF78909C" />
       </Color>
       <Color Name="StatusBarText">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -7076,7 +7076,7 @@
     </Category>
     <Category Name="StartPage" GUID="{65d78f35-869e-4bf3-8e52-991fee554a16}">
       <Color Name="MRUSecondaryForeground">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF78909C" />
       </Color>
       <Color Name="VideoRSSItem">
         <Background Type="CT_RAW" Source="FF2D2D2D" />
@@ -7091,22 +7091,22 @@
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="VideoRSSItemTitleMouseOver">
-        <Foreground Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FF64FFDA" />
       </Color>
       <Color Name="VideoRSSItemTitlePressed">
-        <Foreground Type="CT_RAW" Source="FF77AAFF" />
+        <Foreground Type="CT_RAW" Source="FF18FFFF" />
       </Color>
       <Color Name="VideoRSSItemDuration">
-        <Foreground Type="CT_RAW" Source="FFB7B9C5" />
+        <Foreground Type="CT_RAW" Source="FF78909C" />
       </Color>
       <Color Name="VideoRSSItemDurationMouseOver">
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="VideoRSSItemDurationPressed">
-        <Foreground Type="CT_RAW" Source="FFB7B9C5" />
+        <Foreground Type="CT_RAW" Source="FF78909C" />
       </Color>
       <Color Name="DisabledProjectCommand">
-        <Foreground Type="CT_RAW" Source="FF656565" />
+        <Foreground Type="CT_RAW" Source="FF607D8B" />
       </Color>
       <Color Name="DiscoverTitleText">
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
@@ -7118,25 +7118,25 @@
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageCheckBoxText">
-        <Foreground Type="CT_RAW" Source="FF999999" />
+        <Foreground Type="CT_RAW" Source="FF607D8B" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverText">
-        <Foreground Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageCheckBoxPressedText">
-        <Foreground Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageCheckBoxBackground">
-        <Background Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF455A64" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF1F1F20" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
       </Color>
       <Color Name="StartPageCheckBoxPressedBackground">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF307C94" />
       </Color>
       <Color Name="StartPageCheckBoxBorder">
-        <Foreground Type="CT_RAW" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF607D8B" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverBorder">
         <Foreground Type="CT_RAW" Source="FF80CBC4" />
@@ -7148,7 +7148,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverCheckMark">
-        <Foreground Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageCheckBoxPressedCheckMark">
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
@@ -7157,43 +7157,43 @@
         <Background Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="StartPageButton">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF455A64" />
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageButtonBorder">
         <Foreground Type="CT_RAW" Source="FF80CBC4" />
       </Color>
       <Color Name="StartPageButtonMouseOver">
-        <Background Type="CT_RAW" Source="FF656565" />
+        <Background Type="CT_RAW" Source="FF546E7A" />
         <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="StartPageButtonMouseOverBorder">
         <Foreground Type="CT_RAW" Source="FF80CBC4" />
       </Color>
       <Color Name="StartPageButtonMouseDown">
-        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Background Type="CT_RAW" Source="FF307C94" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="StartPageButtonMouseDownBorder">
         <Foreground Type="CT_RAW" Source="FF80CBC4" />
       </Color>
       <Color Name="StartPageDefaultBannerBackground">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF263238" />
       </Color>
       <Color Name="StartPageLeftPanelBackground">
-        <Background Type="CT_RAW" Source="FF28282B" />
+        <Background Type="CT_RAW" Source="FF263238" />
       </Color>
       <Color Name="StartPageNewText">
         <Foreground Type="CT_RAW" Source="FFFF8C00" />
       </Color>
       <Color Name="DefaultBannerLink">
-        <Foreground Type="CT_RAW" Source="FF0097FB" />
+        <Foreground Type="CT_RAW" Source="FF64FFDA" />
       </Color>
       <Color Name="DefaultBannerLinkHover">
-        <Foreground Type="CT_RAW" Source="FF88CCFE" />
+        <Foreground Type="CT_RAW" Source="FF18FFFF" />
       </Color>
       <Color Name="DefaultBannerLinkPressed">
-        <Foreground Type="CT_RAW" Source="FF0097FB" />
+        <Foreground Type="CT_RAW" Source="FF64FFDA" />
       </Color>
       <Color Name="VisualStudioLogoText">
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
